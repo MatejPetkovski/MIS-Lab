@@ -1,6 +1,6 @@
-# exam_schedule_app
+# Распоред за испити - 201249
 
-A new Flutter project.
+![til](https://github.com/MatejPetkovski/MIS-Lab/blob/master/photos%20and%20video/video.gif?raw=true)
 
 ## Getting Started
 
